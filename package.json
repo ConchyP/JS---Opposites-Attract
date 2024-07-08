@@ -1,0 +1,25 @@
+{
+  "name": "js---opposites-attract",
+  "version": "1.0.0",
+  "description": "Instrucciones:\r Timmy y Sarah piensan que están enamorados, pero alrededor de donde viven, solo lo sabrán una vez que elijan una flor cada uno. Si una de las flores tiene un número par de pétalos y la otra tiene un número impar de pétalos, significa que están enamorados.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ConchyP/JS---Opposites-Attract.git"
+  },
+  "author": "Conchy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ConchyP/JS---Opposites-Attract/issues"
+  },
+  "homepage": "https://github.com/ConchyP/JS---Opposites-Attract#readme",
+  "dependencies": {
+    "vitest": "^1.6.0"
+  }
+}
